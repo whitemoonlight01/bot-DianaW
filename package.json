@@ -1,0 +1,48 @@
+{
+  "name": "bot-diana",
+  "version": "0.0.2",
+  "description": "Only termux",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "bot",
+    "whatsapp",
+    "bot"
+  ],
+  "author": "Diana",
+  "license": "IscC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.3",
+    "@kagchi/kag-api": "^2.0.0",
+    "async": "^3.2.1",
+    "axios": "^0.21.1",
+    "cfonts": "^2.9.2",
+    "fake-useragent": "^1.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "got": "^11.8.3",
+    "imgbb-uploader": "^1.3.5",
+    "lolis.life": "^4.0.0",
+    "moment-timezone": "^0.5.32",
+    "multistream": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "remove.bg": "^1.3.0",
+    "request": "^2.81.0",
+    "spinnies": "^0.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitemoonlight01/bot-DianaW.git"
+  },
+  "bugs": {
+    "url": "https://github.com/whitemoonlight01/bot-DianaW.git"
+  },
+  "homepage": "https://github.com/whitemoonlight01/bot-DianaW.git#readme"
+}

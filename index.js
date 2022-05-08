@@ -214,7 +214,7 @@ async function starts() {
                     pegatina: 'estoy haciendo tu sticker \n\n*Recuerda los stickersgif son de 6 segundos*\n\n_*Bot-Diana*_',
 					attp: 'estoy haciendo tu texto a sticker \n\n*Esto puede demorar unos minutos*\n\n_*bot-diana*_',
 					imgs: 'espera...\n\n*Convirtiendo tu Sticker a Imagen 🔄*\n\n_*bot-diana*_',
-					daftarB: `「NO ESTAS REGISTRADO」\n\nmmm no estas en mi lista de datos \n\nPara poder usarme escribe el siguente comando\n\nComando: ${prefix}daftar Nombre\nEjemplo: ${prefix}daftar Diana`,
+					daftarB: `\nNo estas en mi lista de datos \n\nPara poder usarme escribe el siguente comando\n\nComando: ${prefix}daftar Nombre\nEjemplo: ${prefix}daftar Diana`,
 				}
 			}
     			const apakah = ['Si','No']

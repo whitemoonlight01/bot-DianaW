@@ -25,7 +25,7 @@ Comando de bienvenida solo grupos
    ▀ ${prefix}stickergif
 	6 segundos de video
 	▀ *TRANSFORMA*
-	❤ ${prefix}toimg
+	▀ ${prefix}toimg
 	De sticker a JPG
 	▀ *MAS COMANDOS*
 	▀ ${prefix}idioma
